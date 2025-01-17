@@ -2,3 +2,4 @@ build/
 dist/
 verysteno.egg-info/
 __pycache__/
+*_encoded.*
